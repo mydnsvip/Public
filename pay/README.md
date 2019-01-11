@@ -11,5 +11,6 @@
 1. 下载pay.html文件，将代码上传部署到自己网站。
 2. 给自己网站这个链接生成一个二维码。
 3. 需要将收款码转换为收款链接。
+4.如果自己没有网站，可以联系我QQ：1304547047
 
-不懂的可以访问豫章小站 [https://blog.mydns.vip/](https://blog.mydns.vip) 给站长留言。
+更多内容可以访问豫章小站 [https://blog.mydns.vip/](https://blog.mydns.vip) 给站长留言。
