@@ -19,8 +19,8 @@ linux下检测端口联通性小工具
 
 ### <span style="color: #FF5E52;">pay.zip</span>
 支付宝、微信、QQ 收款码三码合一[https://blog.mydns.vip/1083.html](https://blog.mydns.vip/1083.html)
-#### 使用步骤
-1. 下载pay.html文件，将代码上传部署到自己网站。
+#### pay.zip使用说明
+1. 下载pay.zip文件，将代码上传部署到自己网站。
 2. 给自己网站这个链接生成一个二维码
 3. 需要将收款码转换为收款链接
 4. 如果自己没有网站，可以联系我QQ：1304547047
