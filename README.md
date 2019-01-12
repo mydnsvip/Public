@@ -31,4 +31,4 @@ linux下检测端口联通性小工具
 
 <div align=center img="https://blog.mydns.vip/wp-content/uploads/2019/01/403eada1b982901.png"></div>
   
-  ![捐赠支持我们](https://blog.mydns.vip/wp-content/uploads/2019/01/403eada1b982901.png)
+
