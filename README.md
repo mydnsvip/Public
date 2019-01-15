@@ -25,6 +25,10 @@ linux下检测端口联通性小工具
 3. 需要将收款码转换为收款链接
 4. 如果自己没有网站，可以联系我QQ：1304547047
 
+### <span style="color: #FF5E52;">axel-2.4.tar.gz</span>
+linux环境下多线程下载工具[https://blog.mydns.vip/1280.html](https://blog.mydns.vip/1280.html)
+
+
 
 更多内容可以访问豫章小站 [https://blog.mydns.vip/](https://blog.mydns.vip) 给站长留言。
 
