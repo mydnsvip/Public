@@ -28,7 +28,8 @@ linux下检测端口联通性小工具
 ### <span style="color: #FF5E52;">axel-2.4.tar.gz</span>
 linux环境下多线程下载工具[https://blog.mydns.vip/1280.html](https://blog.mydns.vip/1280.html)
 
-
+### <span style="color: #FF5E52;">tcping-windows.rar</span>
+windows环境下非常好用的TCP端口检测工具[https://blog.mydns.vip/1372.html](https://blog.mydns.vip/1372.html)
 
 
 
